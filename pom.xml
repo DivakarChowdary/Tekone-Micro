@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.tekone</groupId>
-	<artifactId>tekone</artifactId>
+	<artifactId>Tekone</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>A Learning Project</name>
+	<name>Tekone Micro</name>
 	<description>MicroService Project</description>
 	<properties>
 		<java.version>11</java.version>
